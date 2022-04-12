@@ -260,7 +260,7 @@
                 android:layout_marginEnd="10dp"
                 android:layout_weight="1"
                 android:backgroundTint="#D7D7D7"
-                android:text="@string/multiply"
+                tools:text="@string/minus" 
                 android:textColor="#020202" />
         </LinearLayout>
 
